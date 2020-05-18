@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1400868",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "6446340",
+      "name": "电影",
+      "font_class": "tianchongxing-",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "8286052",
+      "name": "已选座位",
+      "font_class": "yixuanzuowei",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "11749411",
+      "name": "五角星",
+      "font_class": "wujiaoxing",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "12751546",
+      "name": "订单",
+      "font_class": "dingdan_huaban",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
